@@ -1,0 +1,2 @@
+# meteoNow
+Widget meteo
